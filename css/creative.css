@@ -444,3 +444,10 @@ ul {
   width: 1.3em; /* same as padding-left set on li */
   text-align: left;
 }
+
+i.fa.fa-facebook {
+    font-size: 25px;
+}
+i.fa.fa-youtube {
+    font-size: 25px;
+}
