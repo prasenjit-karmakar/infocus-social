@@ -41,6 +41,28 @@ p {
 .bg-primary {
   background-color: #F05F40;
 }
+.bg-article {
+  background-color: #87CEFA;
+}
+
+#load{
+    width:100%;
+    height:100%;
+    position:fixed;
+    z-index:9999;
+    background:url("../images/logo_loading.gif") no-repeat center center rgba(0,0,0,0.25)
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.a-article {
+	color: black;
+	font-size: 16px;
+}
 .bg-dark {
   background-color: #222222;
   color: white;
